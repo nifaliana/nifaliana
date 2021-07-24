@@ -1,5 +1,4 @@
 ## Hi there, I'm Rija Nifaliana 👋
-### IT Guy & Dangerous Skills
 
 ![](https://komarev.com/ghpvc/?username=nifaliana&style=flat-square)
 
