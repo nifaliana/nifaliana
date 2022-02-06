@@ -1,10 +1,10 @@
-## Hi there, I'm Rija Nifaliana 👋
+## Rija Nifaliana 👋
 
 ![](https://komarev.com/ghpvc/?username=nifaliana&style=flat-square)
 
-- 🔭 I’m currently working on my Startup and learning Blockchain Technology
+- React & GraphQL enthusiast
 
-### Languages and Tools:
+### Weapons:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
