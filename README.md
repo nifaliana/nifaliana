@@ -14,7 +14,6 @@
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/kubernetes/kubernetes.png" />
 
 <br />
-### Stats:
 
 ![Nifaliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifaliana&show_icons=true)
 
